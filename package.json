@@ -1,0 +1,19 @@
+{
+  "name": "server-side",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LassTwoKey/server-side",
+  "author": "Nikita B.",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  },
+  "scripts": {
+    "dev": "nodemon src/"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
